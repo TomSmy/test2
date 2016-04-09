@@ -1,9 +1,1 @@
-123
-<<<<<<< HEAD
-
-zmiany
-
-dobra zmiana
-=======
-456
->>>>>>> 209cf6199e7d6af97388e0ccbfb072fceab5817c
+123456789
